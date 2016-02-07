@@ -1,5 +1,5 @@
-# cycle-hot-reloading-example
-A Cycle.js starter project with hot reloading using browserify and browserify-hmr.
+# cycle_drag-n-drop_hot-reloading_example
+A Cycle.js starter project with drag-n-drop and hot reloading using browserify and browserify-hmr.
 
 Usage
 ---
@@ -7,8 +7,8 @@ Usage
 To get set up:
 
 ```bash
-git clone https://github.com/Widdershin/cycle-hot-reloading-example.git
-cd cycle-hot-reloading-example
+git clone https://github.com/jameswomack/cycle_drag-n-drop_hot-reloading_example.git
+cd cycle_drag-n-drop_hot-reloading_example
 npm install
 npm start
 ```
